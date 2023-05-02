@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Anjali Pandey",
+  "author": "Anuj Sharma",
   "license": "ISC",
   "dependencies": {
     "@kommunicate/kommunicate-chatbot-plugin": "^0.0.6",
